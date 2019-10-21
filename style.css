@@ -1,0 +1,65 @@
+/*
+    I tried to download the Open San and implement it into my visual basic and I guess it didnt work
+*/
+
+.nav{
+    text-decoration: none;
+    list-style-type: none;
+    padding: 10px 10px 10px 10px;
+    color: #69696a;
+    line-height: 30px;
+    font-family: sans-serif;
+
+}
+
+.nav a:link, .nav a:hover, .nav a:visited {
+    text-decoration: none;
+    color: grey;
+}
+
+h1 {
+    padding: 20px;
+    color: #000;
+    font-family: sans-serif;
+}
+
+.v1 {
+    border-left: 3px solid black;
+    height: 230px;
+    position: absolute;
+    right: 96%;
+    top: 37%;
+}
+p {
+    padding: 0px 100px 40px 50px;
+    text-align: left;
+    color: #69696a;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    border-radius: 45px;
+    padding: 10px 10px 10px 0px;
+    background-color: black;
+    color: #FFF;
+    font-size: 18px;
+    display: block;
+    height: 40px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 100%;
+    font-family: sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+body {
+    background-color: #f9fafc;
+    font-family: sans-serif;
+    
+}
